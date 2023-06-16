@@ -2,7 +2,7 @@
 
 Nama : Marsellius  
 NIU : 456372
-Sesi : 1
+Sesi : Jarkom 1  
 Secret String : [SECRET_STRING]
 
 ## Checklist Responsi
