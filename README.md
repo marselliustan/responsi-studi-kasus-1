@@ -1,9 +1,9 @@
 # Responsi Senior Project - Studi Kasus 1
 
 Nama : Marsellius  
-NIU : 456372
-Sesi : Jarkom 1  
-Secret String : [SECRET_STRING]
+NIU : 456372  
+Sesi : 1 Jarkom  
+Secret String : c20da440d50fef152ef356c417749df4a94bca6580ef7a8b6b6e33bbfec815e520230616091040
 
 ## Checklist Responsi
 
